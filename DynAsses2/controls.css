@@ -1,0 +1,13 @@
+.inputs {
+    width: 55px;  
+}
+
+#number {
+    background:black;
+    color:white;
+}
+
+#random {
+    background:pink;
+    color:black;
+}
